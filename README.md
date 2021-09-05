@@ -6,7 +6,8 @@
 </div>
 
 ## 1. OBJETIVOS
-### OBJETIVOS GENERAL
+### OBJETIVO GENERAL
+- Identificar una forma de onda sinusoidal y medir sus características.
 ### OBJETIVO ESPECÍFICOS
 ## 2. MARCO TEÓRICO
 ## 3. MATERIALE Y EQUIPO REQUERIDO
