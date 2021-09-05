@@ -1,6 +1,5 @@
-# PRÁCTICA No. 8 CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
-<div align = "center
+<div align = "center">
               
 #  PRÁCTICA No. 8 CARACTERÍSTICAS DE LA ONDA SENOIDAL
   
