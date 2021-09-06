@@ -6,7 +6,7 @@
 ### OBJETIVO ESPECÍFICOS
 ## 2. MARCO TEÓRICO
   
-![forma (2)](https://user-images.githubusercontent.com/84431598/132148481-d26e48de-f12a-4e2f-8b5e-2b962a09ba95.png)
+  ![map (2)](https://user-images.githubusercontent.com/84431598/132149408-a7607685-c2a3-440e-ae47-38798011384b.png)
 
 ## 3. MATERIALES Y EQUIPOS REQUERIDOS
   
