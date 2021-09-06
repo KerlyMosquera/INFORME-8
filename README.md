@@ -3,17 +3,38 @@
               
 #  PRÁCTICA No. 8 CARACTERÍSTICAS DE LA ONDA SENOIDAL
   
-</div>
+</ div >
 
 ## 1. OBJETIVOS
 ### OBJETIVO GENERAL
 - Identificar una forma de onda sinusoidal y medir sus características.
 ### OBJETIVO ESPECÍFICOS
 ## 2. MARCO TEÓRICO
-## 3. MATERIALE Y EQUIPO 
+<div align="center">
+  
+![forma (2)](https://user-images.githubusercontent.com/84431598/132148481-d26e48de-f12a-4e2f-8b5e-2b962a09ba95.png)
 
+</div>
+## 3. MATERIALE Y EQUIPO 
+<div align="center">
+  
+  ![cantida (2)](https://user-images.githubusercontent.com/84431598/132148369-2383abb0-d9a5-4868-bc4a-d5809970aaea.png)
+
+  </ div >
 ## 4. PROCEDIMIENTO
 ### 4.1  IMPLEMENTE EL CIRCUITO QUE SE PRESENTA EN LA FIGURA 4.1
+<div align="center">
+  
+  ![7 1 (2)](https://user-images.githubusercontent.com/84431598/132148576-cdd86495-035c-47f1-bac4-f27a730e2358.png)
+
+  </ div >
+  
+  <div align="center">
+  
+*Figura  4.1. Circuito con alimentación en c.a *
+
+  </div>
+  
 ### 4.2 AJUSTE EL GENERADOR DE FUNCIONES, PARA QUE PROPORCIONE UNA SEÑAL DE 20 VPP A UNA FRECUENCIA DE 2.5 KHz
 ### 4.3 CONECTE EL OSCILOSCOPIO AL RESISTOR DE CARGA RL. OBSERVE LA SEÑAL QUE APARECE EN EL OSCILOSCOPIO
 ## 5. RESPUESTAS A INTERROGANTES
