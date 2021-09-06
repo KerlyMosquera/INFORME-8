@@ -28,13 +28,9 @@
   ![7 1 (2)](https://user-images.githubusercontent.com/84431598/132148576-cdd86495-035c-47f1-bac4-f27a730e2358.png)
 
   </ div >
-  
-  <div align="center">
-  
-*Figura  4.1. Circuito con alimentación en c.a *
 
-  </div>
-  
+*Figura 4.1 Circuito con alimentación en c.a*
+
 ### 4.2 AJUSTE EL GENERADOR DE FUNCIONES, PARA QUE PROPORCIONE UNA SEÑAL DE 20 VPP A UNA FRECUENCIA DE 2.5 KHz
 ### 4.3 CONECTE EL OSCILOSCOPIO AL RESISTOR DE CARGA RL. OBSERVE LA SEÑAL QUE APARECE EN EL OSCILOSCOPIO
 ## 5. RESPUESTAS A INTERROGANTES
