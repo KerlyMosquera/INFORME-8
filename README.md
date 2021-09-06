@@ -1,10 +1,5 @@
-
-<div align = "center">
-              
+             
 #  PRÁCTICA No. 8 CARACTERÍSTICAS DE LA ONDA SENOIDAL
-  
-</ div >
-
 ## 1. OBJETIVOS
 ### OBJETIVO GENERAL
 - Identificar una forma de onda sinusoidal y medir sus características.
