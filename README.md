@@ -96,6 +96,8 @@ El término rms proviene de las siglas de root mean square, y significa raíz cu
 - https://youtu.be/oZ3FxzTWnr8
 ## 7. CONCLUSIONES
 - La forma de onda sinusoidal (onda seno) es el tipo más común y fundamental porque todos los demás tipos de formas de onda repetitivas pueden ser descompuestos en ondas seno compuestas. La onda seno es un tipo periódico de forma de onda que se repite a intervalos fijos.
+- Un osciloscopio realiza mediciones cuantitativas y cualitativas.
+- Un multímetro digital realiza controles de alta precisión de la tensión, corriente, impedancia y de otros parámetros eléctricos.
 ## 8. BIBLIOGRAFÍA
 Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed).* México DF, México: Pearson Educación.
 
