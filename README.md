@@ -85,7 +85,7 @@
   
 </div>
 
- *Figura Medición del voltaje de salida en RL *
+ *Figura Medición del voltaje de salida en RL*
 ### 5.8  Compare el voltaje medido en el punto 5.5 y el obtenido en el punto 5.7. ¿Coinciden? , ¿Por qué?
 No, porque...
 
