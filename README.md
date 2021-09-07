@@ -23,7 +23,9 @@
 *Figura 4.1 Circuito con alimentación en c.a*
 
 ### 4.2 AJUSTE EL GENERADOR DE FUNCIONES, PARA QUE PROPORCIONE UNA SEÑAL DE 20 VPP A UNA FRECUENCIA DE 2.5 KHz
+
 ### 4.3 CONECTE EL OSCILOSCOPIO AL RESISTOR DE CARGA RL. OBSERVE LA SEÑAL QUE APARECE EN EL OSCILOSCOPIO
+
 ## 5. RESPUESTAS A INTERROGANTES
 ### 5.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 3.5
@@ -52,11 +54,12 @@
 * Figura? Medición del voltaje de salida en RL *
 ### 5.8  Compare el voltaje medido en el punto 5.5 y el obtenido en el punto 5.7. ¿Coinciden? , ¿Por qué?
 No, porque...
-## 6. ANÁLISIS DE LOS RESULTADOS
-## 7. VIDEO
+
+## 6.VIDEO
 - https://youtu.be/oZ3FxzTWnr8
-## 8. CONCLUSIONES
-## 9. BIBLIOGRAFÍA
+## 7. CONCLUSIONES
+- 
+## 8. BIBLIOGRAFÍA
 Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed).* México DF, México: Pearson Educación.
 
 Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed).* México DF, México: Cengage Learning.
