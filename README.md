@@ -90,12 +90,12 @@
 </div>
 
 ### 5.8  Compare el voltaje medido en el punto 5.5 y el obtenido en el punto 5.7. ¿Coinciden? , ¿Por qué?
-No, porque...
+No, porque  en el punto 5.5 medios la amplitud de voltaje mediante un osciloscopio es decir nos dio un valor pico , en cambio en el punto 5.7  el voltaje medido fue con un multimetro por ende nos dio un  valor rms.
 
 ## 6.VIDEO
 - https://youtu.be/oZ3FxzTWnr8
 ## 7. CONCLUSIONES
-- 
+- La forma de onda sinusoidal (onda seno) es el tipo más común y fundamental porque todos los demás tipos de formas de onda repetitivas pueden ser descompuestos en ondas seno compuestas. La onda seno es un tipo periódico de forma de onda que se repite a intervalos fijos.
 ## 8. BIBLIOGRAFÍA
 Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed).* México DF, México: Pearson Educación.
 
