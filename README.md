@@ -85,7 +85,7 @@
 
 ![12 (2)](https://user-images.githubusercontent.com/84458025/132369725-d5b6bb27-a19f-4c02-b6de-4b44f7d50d72.png)
 
-  *Figura Medición del voltaje de salida en RL*
+  *Figura: Medición del voltaje de salida en RL*
   
 </div>
 
