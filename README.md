@@ -25,18 +25,30 @@
 ### 4.2 AJUSTE EL GENERADOR DE FUNCIONES, PARA QUE PROPORCIONE UNA SEÑAL DE 20 VPP A UNA FRECUENCIA DE 2.5 KHz
 ### 4.3 CONECTE EL OSCILOSCOPIO AL RESISTOR DE CARGA RL. OBSERVE LA SEÑAL QUE APARECE EN EL OSCILOSCOPIO
 ## 5. RESPUESTAS A INTERROGANTES
-### 5.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+### 5.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
+3.5
 ### 5.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
+2V/2mV
 ### 5.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+8
 ### 5.4 ¿En qué valor está posicionada la perilla TIME/DIV?
+50us/0.5us
 ### 5.5  ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
-### Amplitud de voltaje:
-### Periodo:
+
+### Amplitud de voltaje: 
+6.8 V
+### Periodo: 
+0.4 s
 ### 5.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
 ### f:
+2500 Hz
 ### ω:
+15707.96 rad/s
 ### 5.7 Con el multímetro digital mida el voltaje de salida en RL:
+4.85 V
+*Figura ? Medición del voltaje de salida en RL*
 ### 5.8  Compare el voltaje medido en el punto 5.5 y el obtenido en el punto 5.7. ¿Coinciden? , ¿Por qué?
+No, porque...
 ## 6. ANÁLISIS DE LOS RESULTADOS
 ## 7. VIDEO
 ## 8. CONCLUSIONES
