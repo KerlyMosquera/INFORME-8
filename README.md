@@ -38,7 +38,7 @@
 ### Amplitud de voltaje: 
 6.8 V
 ### Periodo: 
-0.4 s
+0.0004 s
 ### 5.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
 ### f:
 2500 Hz
