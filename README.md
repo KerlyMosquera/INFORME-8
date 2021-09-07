@@ -90,8 +90,8 @@
 </div>
 
 ### 5.8  Compare el voltaje medido en el punto 5.5 y el obtenido en el punto 5.7. ¿Coinciden? , ¿Por qué?
-No, porque  en el punto 5.5 medios la amplitud de voltaje mediante un osciloscopio es decir nos dio un valor pico , en cambio en el punto 5.7  el voltaje medido fue con un multimetro por ende nos dio un  valor rms.
-
+No, porque  en el punto 5.5 medios la amplitud de voltaje mediante un osciloscopio es decir nos dio un valor pico ademas que el valor pido de una onda seno es el valor de voltaje (o corriente) en el punto máximo (pico) positivo o negativo con respecto a cero, en cambio en el punto 5.7  el voltaje medido fue con un multimetro por ende nos dio un  valor rms.
+El término rms proviene de las siglas de root mean square, y significa raíz cuadrada de la media de los cuadrados. La mayoría de los voltímetros muestran voltaje rms.
 ## 6.VIDEO
 - https://youtu.be/oZ3FxzTWnr8
 ## 7. CONCLUSIONES
