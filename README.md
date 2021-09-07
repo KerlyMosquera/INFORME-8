@@ -100,7 +100,7 @@ Si queremos transformar el valor pico que nos dio en el  punto 5.5 a valor rms, 
   
 </div>
 
-Si realizamos esta transformacion se podria decir que si coinciden, pero como no nos piden, concluimos que no coinciden.
+Si realizamos esta transformación se podria decir que si coinciden, pero como no nos piden, concluimos que no coinciden.
 ## 6.VIDEO
 - https://youtu.be/oZ3FxzTWnr8
 ## 7. CONCLUSIONES
