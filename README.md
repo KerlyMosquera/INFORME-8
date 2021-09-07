@@ -24,8 +24,22 @@
 
 ### 4.2 AJUSTE EL GENERADOR DE FUNCIONES, PARA QUE PROPORCIONE UNA SEÑAL DE 20 VPP A UNA FRECUENCIA DE 2.5 KHz
 
-### 4.3 CONECTE EL OSCILOSCOPIO AL RESISTOR DE CARGA RL. OBSERVE LA SEÑAL QUE APARECE EN EL OSCILOSCOPIO
+<div align="center">
+  
+![1 (2)](https://user-images.githubusercontent.com/84458025/132368663-2d3f0334-2090-49e3-a748-15b76296ce82.png)
+  
+![1 1](https://user-images.githubusercontent.com/84458025/132369443-0cc6dbe6-85b0-401b-804d-2d3929d97b08.png)
+  
+</div>
 
+### 4.3 CONECTE EL OSCILOSCOPIO AL RESISTOR DE CARGA RL. OBSERVE LA SEÑAL QUE APARECE EN EL OSCILOSCOPIO
+<div align="center"></div>
+
+![2 1 (2)](https://user-images.githubusercontent.com/84458025/132368846-a83f28a3-8488-49f8-9f0a-715593984da1.png)
+
+![2 3](https://user-images.githubusercontent.com/84458025/132369179-b1239850-26f6-4bd5-aa6c-9c8a857ba609.png)
+
+</div>
 ## 5. RESPUESTAS A INTERROGANTES
 ### 5.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 3.5
@@ -48,10 +62,13 @@
 15707.96 rad/s
 ### 5.7 Con el multímetro digital mida el voltaje de salida en RL:
 4.85 V
+<div align="center"></div>
 
-![v (2)](https://user-images.githubusercontent.com/84431598/132364889-2841c616-58b4-47b6-b76b-d4fd0b02ca7f.png)
+![12 (2)](https://user-images.githubusercontent.com/84458025/132369725-d5b6bb27-a19f-4c02-b6de-4b44f7d50d72.png)
 
-* Figura? Medición del voltaje de salida en RL *
+</div>
+
+ *Figura Medición del voltaje de salida en RL *
 ### 5.8  Compare el voltaje medido en el punto 5.5 y el obtenido en el punto 5.7. ¿Coinciden? , ¿Por qué?
 No, porque...
 
