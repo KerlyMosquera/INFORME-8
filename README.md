@@ -94,7 +94,11 @@ No, porque  en el punto 5.5 medios la amplitud de voltaje mediante un osciloscop
 El término rms proviene de las siglas de root mean square, y significa raíz cuadrada de la media de los cuadrados. La mayoría de los voltímetros muestran voltaje rms.
 Si queremos transformar el valor pico que nos dio en el  punto 5.5 a valor rms, realizamos el siquien cálculo.
 
+<div align="center">
+
 ![ultimo (2)](https://user-images.githubusercontent.com/84431598/132384847-81ffbd32-37f8-49ab-8fa5-a54d6dbf916d.png)
+  
+</div>
 
 Si realizamos esta transformacion se podria decir que si coinciden, pero como no nos piden, concluimos que no coinciden.
 ## 6.VIDEO
