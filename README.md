@@ -44,17 +44,17 @@
 
 ## 5. RESPUESTAS A INTERROGANTES
 ### 5.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
-3.5
+7
 ### 5.2 ¿En qué valor está posicionada la perilla VOLTS/DIV?
-2V/2mV
+1V/2mV
 ### 5.3 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-8
+4
 ### 5.4 ¿En qué valor está posicionada la perilla TIME/DIV?
-50us/0.5us
+0.1ms/0.5us
 ### 5.5  ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
 
 ### Amplitud de voltaje: 
-6.8 V
+6.85 V
 ### Periodo: 
 0.0004 s
 ### 5.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
