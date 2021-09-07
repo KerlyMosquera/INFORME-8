@@ -84,10 +84,11 @@
 <div align="center">
 
 ![12 (2)](https://user-images.githubusercontent.com/84458025/132369725-d5b6bb27-a19f-4c02-b6de-4b44f7d50d72.png)
+
+  *Figura Medición del voltaje de salida en RL*
   
 </div>
 
- *Figura Medición del voltaje de salida en RL*
 ### 5.8  Compare el voltaje medido en el punto 5.5 y el obtenido en el punto 5.7. ¿Coinciden? , ¿Por qué?
 No, porque...
 
