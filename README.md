@@ -51,6 +51,7 @@
 No, porque...
 ## 6. ANÁLISIS DE LOS RESULTADOS
 ## 7. VIDEO
+- https://youtu.be/oZ3FxzTWnr8
 ## 8. CONCLUSIONES
 ## 9. BIBLIOGRAFÍA
 Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed).* México DF, México: Pearson Educación.
