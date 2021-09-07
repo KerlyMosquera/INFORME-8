@@ -33,6 +33,7 @@
 </div>
 
 ### 4.3 CONECTE EL OSCILOSCOPIO AL RESISTOR DE CARGA RL. OBSERVE LA SEÑAL QUE APARECE EN EL OSCILOSCOPIO
+
 <div align="center"></div>
 
 ![2 1 (2)](https://user-images.githubusercontent.com/84458025/132368846-a83f28a3-8488-49f8-9f0a-715593984da1.png)
@@ -40,6 +41,7 @@
 ![2 3](https://user-images.githubusercontent.com/84458025/132369179-b1239850-26f6-4bd5-aa6c-9c8a857ba609.png)
 
 </div>
+
 ## 5. RESPUESTAS A INTERROGANTES
 ### 5.1 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
 3.5
@@ -62,6 +64,7 @@
 15707.96 rad/s
 ### 5.7 Con el multímetro digital mida el voltaje de salida en RL:
 4.85 V
+
 <div align="center"></div>
 
 ![12 (2)](https://user-images.githubusercontent.com/84458025/132369725-d5b6bb27-a19f-4c02-b6de-4b44f7d50d72.png)
