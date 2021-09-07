@@ -46,7 +46,10 @@
 15707.96 rad/s
 ### 5.7 Con el multímetro digital mida el voltaje de salida en RL:
 4.85 V
-*Figura ? Medición del voltaje de salida en RL*
+
+![v (2)](https://user-images.githubusercontent.com/84431598/132364889-2841c616-58b4-47b6-b76b-d4fd0b02ca7f.png)
+
+* Figura? Medición del voltaje de salida en RL *
 ### 5.8  Compare el voltaje medido en el punto 5.5 y el obtenido en el punto 5.7. ¿Coinciden? , ¿Por qué?
 No, porque...
 ## 6. ANÁLISIS DE LOS RESULTADOS
