@@ -5,7 +5,7 @@
 - Identificar una forma de onda sinusoidal y medir sus características.
 ### OBJETIVO ESPECÍFICOS
 - Observar la onda sinusoidal medida por el osciloscopio al resistor de carga RL utilizando el simulador Proteus 8.
-- Comprender términos vistos anteriormente en la materia de física para aplicarlos de manera eficiente.
+- Aplicar de manera eficiente términos vistos anteriormente en la materia de Física.
 ## 2. MARCO TEÓRICO
   
  ![123 (2)](https://user-images.githubusercontent.com/84431598/132149689-b0baf172-f147-4114-8f05-998b543d07bc.png)
