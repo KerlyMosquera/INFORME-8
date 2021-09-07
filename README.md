@@ -60,8 +60,22 @@
 ### 5.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida
 ### f:
 2500 Hz
+
+<div align="center">
+  
+![calculos (3)](https://user-images.githubusercontent.com/84458025/132372051-76e4b054-4fb6-432e-9d79-b3ea77800db4.png)
+  
+</div>
+
 ### ω:
 15707.96 rad/s
+
+<div align="center">
+  
+ ![calculos (4)](https://user-images.githubusercontent.com/84458025/132372195-c54061ef-b87b-4343-a4ad-454345494b3a.png)
+ 
+</div>
+
 ### 5.7 Con el multímetro digital mida el voltaje de salida en RL:
 4.85 V
 
