@@ -34,7 +34,7 @@
 
 ### 4.3 CONECTE EL OSCILOSCOPIO AL RESISTOR DE CARGA RL. OBSERVE LA SEÑAL QUE APARECE EN EL OSCILOSCOPIO
 
-<div align="center"></div>
+<div align="center">
 
 ![2 1 (2)](https://user-images.githubusercontent.com/84458025/132368846-a83f28a3-8488-49f8-9f0a-715593984da1.png)
 
@@ -65,7 +65,7 @@
 ### 5.7 Con el multímetro digital mida el voltaje de salida en RL:
 4.85 V
 
-<div align="center"></div>
+<div align="center">
 
 ![12 (2)](https://user-images.githubusercontent.com/84458025/132369725-d5b6bb27-a19f-4c02-b6de-4b44f7d50d72.png)
 
